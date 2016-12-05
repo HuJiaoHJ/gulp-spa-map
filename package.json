@@ -1,6 +1,6 @@
 {
   "name": "gulp-spa-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a plugins to analysis dependences in angular module (used in SPA)",
   "main": "index.js",
   "scripts": {
