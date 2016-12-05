@@ -1,0 +1,31 @@
+{
+  "name": "gulp-spa-map",
+  "version": "1.0.0",
+  "description": "a plugins to analysis dependences in angular module (used in SPA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuJiaoHJ/gulp-spa-map.git"
+  },
+  "keywords": [
+    "SPA",
+    "Module",
+    "dependences",
+    "map.json"
+  ],
+  "author": "hujiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuJiaoHJ/gulp-spa-map/issues"
+  },
+  "homepage": "https://github.com/HuJiaoHJ/gulp-spa-map#readme",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-util": "^3.0.7",
+    "path": "^0.12.7"
+  }
+}
